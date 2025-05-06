@@ -1,6 +1,6 @@
-# 🏠 SwapNest - Secondhand Marketplace Web Application
+# 🏠 Trendora - Secondhand Marketplace Web Application
 
-**SwapNest** is a full-featured secondhand marketplace platform that empowers users to **buy, sell, and manage used items** with ease. Whether you're looking to declutter your home or score great deals, SwapNest provides a seamless, secure, and user-friendly environment for all.
+**Trendora** is a full-featured secondhand marketplace platform that empowers users to **buy, sell, and manage used items** with ease. Whether you're looking to declutter your home or score great deals, Trendora provides a seamless, secure, and user-friendly environment for all.
 
 ---
 
@@ -35,5 +35,5 @@
 
 ---
 
-SwapNest is built with clean code principles, modular architecture, and scalable components to provide a modern, community-driven e-commerce experience focused on sustainability.
+Trendora is built with clean code principles, modular architecture, and scalable components to provide a modern, community-driven e-commerce experience focused on sustainability.
 
